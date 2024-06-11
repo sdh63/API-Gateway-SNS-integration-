@@ -1,0 +1,2 @@
+This GitHub account and repo will have all the demos for a beginner to learn AWS services.
+https://github.com/acantril/learn-cantrill-io-labs/tree/master/00-aws-simple-demos
